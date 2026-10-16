@@ -32,7 +32,7 @@ Read the notes on each page before you install anything. Files are shared as the
 
 ![Copyright](https://img.shields.io/badge/%C2%A9%20stripes.lol-all%20rights%20reserved-ff4d55?style=flat-square&labelColor=121216)
 
-© stripes.lol. All rights reserved.
+© dashvr. All rights reserved.
 
 **Don't skid it. Don't copy it.** Don't re-upload the files, the code, or the design anywhere else.
 
